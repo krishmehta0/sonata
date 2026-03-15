@@ -10,6 +10,9 @@ data
 log
 ckpt
 outputs/
+.artifacts/
+.data/
+.venv28/
 .vscode
 .idea
 */.DS_Store
